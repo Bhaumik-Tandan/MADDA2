@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MADDA219BIT0292"
