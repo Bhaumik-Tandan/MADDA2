@@ -1,5 +1,4 @@
 package com.example.madda219bit0292;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,11 +9,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
-
 public class RecycleView extends RecyclerView.Adapter<RecycleView.ViewHolder> {
-
     private List<Cardview> teacherList;
-
     public RecycleView(List<Cardview> teacherList) {
         this.teacherList = teacherList;
     }

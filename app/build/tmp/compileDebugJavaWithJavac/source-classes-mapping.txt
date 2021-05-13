@@ -1,3 +1,5 @@
+com/example/madda219bit0292/BuildConfig.java
+ com.example.madda219bit0292.BuildConfig
 com/example/madda219bit0292/SplashActivity.java
  com.example.madda219bit0292.SplashActivity
  com.example.madda219bit0292.SplashActivity$1
@@ -6,7 +8,5 @@ com/example/madda219bit0292/RecycleView.java
  com.example.madda219bit0292.RecycleView$ViewHolder
 com/example/madda219bit0292/MainActivity.java
  com.example.madda219bit0292.MainActivity
-com/example/madda219bit0292/BuildConfig.java
- com.example.madda219bit0292.BuildConfig
 com/example/madda219bit0292/Cardview.java
  com.example.madda219bit0292.Cardview

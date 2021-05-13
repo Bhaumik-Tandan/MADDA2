@@ -4,12 +4,12 @@
         "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\app\\MADDA219BIT0292\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\app\\MADDA219BIT0292\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sp.jpg.flat",
         "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\drawable\\sp.jpg"
+    },
+    {
+        "merged": "D:\\app\\MADDA219BIT0292\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\app\\MADDA219BIT0292\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",

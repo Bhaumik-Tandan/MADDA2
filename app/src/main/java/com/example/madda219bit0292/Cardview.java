@@ -14,7 +14,8 @@ public class Cardview
         this.tv3 = tv3;
     }
 
-    public int getImageView2() {
+    public int getImageView2()
+    {
         return imageView2;
     }
 
@@ -29,6 +30,5 @@ public class Cardview
     public String getTv3() {
         return tv3;
     }
-
 
 }
