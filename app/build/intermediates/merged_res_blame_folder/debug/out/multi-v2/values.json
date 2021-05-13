@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\app\\MADDA219BIT0292\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\MADDA2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "838"
-                    },
-                    "to": {
-                        "startLines": "3655",
-                        "startColumns": "4",
-                        "startOffsets": "240981",
-                        "endLines": "3667",
-                        "endColumns": "12",
-                        "endOffsets": "241703"
-                    }
-                },
                 {
                     "source": "C:\\Users\\bhaum\\.gradle\\caches\\transforms-2\\files-2.1\\73327337a728e12c5c3cdecdb4b7e327\\constraintlayout-2.0.4\\res\\values\\values.xml",
                     "from": {
@@ -58,23 +39,6 @@
                         "endLines": "50,4849,6235,6324",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "2554,320765,407694,412905"
-                    }
-                },
-                {
-                    "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "403,491,492,493,504,505,508",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "19541,25534,25581,25628,26372,26417,26583",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "19578,25576,25623,25670,26412,26457,26620"
                     }
                 },
                 {
@@ -154,20 +118,20 @@
                     }
                 },
                 {
-                    "source": "D:\\app\\MADDA219BIT0292\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\MADDA2\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "52",
-                        "endOffsets": "65"
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
                     },
                     "to": {
-                        "startLines": "1042",
-                        "startColumns": "4",
-                        "startOffsets": "61046",
-                        "endColumns": "52",
-                        "endOffsets": "61094"
+                        "startLines": "403,491,492,493,504,505,508",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "19541,25534,25581,25628,26372,26417,26583",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "19578,25576,25623,25670,26412,26457,26620"
                     }
                 },
                 {
@@ -188,6 +152,23 @@
                     }
                 },
                 {
+                    "source": "D:\\MADDA2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "52",
+                        "endOffsets": "65"
+                    },
+                    "to": {
+                        "startLines": "1042",
+                        "startColumns": "4",
+                        "startOffsets": "61046",
+                        "endColumns": "52",
+                        "endOffsets": "61094"
+                    }
+                },
+                {
                     "source": "C:\\Users\\bhaum\\.gradle\\caches\\transforms-2\\files-2.1\\c7777e08ce7ff70dac4b7f8894ca6295\\recyclerview-1.2.0-alpha06\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -204,6 +185,25 @@
                         "endLines": "313,650,651,652,660,661,662,943,7174",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "14897,36069,36117,36173,36859,36935,37007,55280,465134"
+                    }
+                },
+                {
+                    "source": "D:\\MADDA2\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "838"
+                    },
+                    "to": {
+                        "startLines": "3655",
+                        "startColumns": "4",
+                        "startOffsets": "240981",
+                        "endLines": "3667",
+                        "endColumns": "12",
+                        "endOffsets": "241703"
                     }
                 },
                 {
